@@ -10,7 +10,7 @@ return [
 	'menu-experts' => 'Экспертлар',
 	'menu-journal' => 'Журнал',
 	'menu-contact' => 'Алоқа',
-	'menu-apply' => 'Бизга қўшилинг',
+	'menu-apply' => 'Аъзо бўлиш',
 	'lang-english' => 'English',
 	'lang-russian' => 'Русский',
 	'lang-uzbek-latin' => 'O‘zbekcha',
