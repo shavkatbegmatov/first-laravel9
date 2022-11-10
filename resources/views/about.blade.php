@@ -28,27 +28,68 @@
 
             <section class="about section-padding bg-white">
                 <div class="container">
+					<div class="row">
+						<div class="col">
+							<h1 class="text-center my-header">WHO WE ARE</h1>
+						</div>
+					</div>
                     <div class="row">
-
-                        <div class="col-lg-6 col-12 mb-2">
-                            <h4 class="mb-3">Crispy Kitchen is the latest Bootstrap 5 HTML template provided by Tooplate website.</h4>
-
-                            <a href="news.html" class="custom-btn btn btn-dark mt-3">Check out News</a>
-
-                            <a href="contact.html" class="custom-btn btn btn-danger mt-3 ms-3">Say Hi</a>
+                        <div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/human-resource-development.jpg); background-size: cover;min-height: 30rem">
+							{{-- <img width = 100% src="./assets/images/human-resource-development.jpg" /> --}}
+                            {{-- <h4 class="mb-3">Human Resource Development</h4> --}}
+							<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
+								{{-- <a href="news.html" class="custom-btn btn btn-dark mt-3">Check out News</a> --}}
+								<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
+							</div>
                         </div>
 
-                        <div class="col-lg-6 col-12">
-                        
-                        	<p>Since this website template is 100% free to use, you can edit and apply it for your commercial restaurant websites. There are 6 HTML pages included in this template. Please <strong>click "Reservation" button</strong> on the top right to see the pop-up reservation form.</p>
-                        
-                            <p>You are NOT allowed to redistribute the template ZIP file on any template donwnload website. Please <a href="https://www.tooplate.com/contact" target="_blank">contact us</a> for more information.</p>
+                        <div class="col-lg-8 col-12">
+                        	<p class="my-p">Mahorat & Management was founded by a group of expert-initiators on professional education as an independent research and training center to support HRD - Human Resource Development.</p>
+                        	<p class="my-p">We are non-governmental educational organization that has been operating since 2015 in the field of adults training, ensuring the quality of education and introducing international standards to local educational process, including the introduction of advanced forms of training and retraining using information technologies, improving curriculum and materials based on the widespread use of modern teaching methods.</p>
+                        	<p class="my-p">Mahorat & Management actively cooperates with governmental and non-governmental organizations, and implements short and long term educational projects.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
+            <section class="about mission section-padding">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 col-xxl-8" style="background-color: rgba(0, 0, 0, 0.5);padding:3rem;">
+                            <p class="my-p" style="font-weight: 900; color:aliceblue">Our mission is to unite and build the capacity of experts in order to improve the mechanisms and systems of vocational education, based on international quality indicators and the requirements of the international labor market.</p>
                         </div>
 
                     </div>
                 </div>
             </section>
+
+            <section class="about section-padding bg-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-12">
+                        	<p class="my-p">We aim towards realizing the following key components:</p>
+							<div class="color-box">
+                    			<div class="shadow">
+                        			<div class="info-tab note-icon" title="Important Notes"><i></i></div>
+                        			<div class="note-box">
+                            			<p><strong>educational</strong> - to develop high-quality education, to assist the professional development of managers and teachers,
+professional development and retraining of highly qualified specialists based on the principle of LLL;</p>
+                        			</div>
+                    			</div>
+                			</div>
+                        </div>
+                        <div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/human-resource-development.jpg); background-size: cover;min-height: 30rem">
+							<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
+								<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
 
             <section class="about section-padding">
                 <div class="container">

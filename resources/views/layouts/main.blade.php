@@ -13,14 +13,15 @@
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+	<link href="{{asset('assets/css/icomoon.css')}}" rel="stylesheet">
 
 
+	<!-- MDB -->
+	{{-- <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.0/mdb.min.css" rel="stylesheet" /> --}}
 	<link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" />
 	<link href="{{asset('assets/css/bootstrap-icons.css')}}" rel="stylesheet" />
 	<link href="{{asset('assets/css/tooplate-crispy-kitchen.css')}}" rel="stylesheet" />
 	<link href="{{asset('assets/css/style.css')}}" rel="stylesheet" />
-	<!-- MDB -->
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.0/mdb.min.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -179,7 +180,7 @@
 					$('.selectpicker').selectpicker();
 				});
 				</script>
-<i class="flag flag-andorra"></i>
+				{{-- <i class="flag flag-andorra"></i> --}}
 				<div class="d-none d-lg-block">
 					<select class="form-control changeLang">
 						<option value="en" {{ session()->get('locale') == 'en' ? 'selected' : '' }}><i class="flag flag-andorra"></i> {{ __('messages.lang-english') }}</option>
