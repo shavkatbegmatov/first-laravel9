@@ -314,42 +314,22 @@
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/portals/0/images/partners/solar-communications-200.png" />
+                        <img alt="" src="assets/images/partners/partner-m-tech.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/portals/0/images/partners/cbf-200.png" />
+                        <img alt="" src="assets/images/partners/partner-uz-tea.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/portals/0/images/partners/gxs-200.png" />
+                        <img alt="" src="assets/images/partners/partner-raled.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/portals/0/images/partners/jpr-200.png" />
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/portals/0/images/partners/talk-internet-200.png" />
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/Portals/0/img/opera3_logo.png" />
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/Portals/0/pegasus-logo.png" />
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="square-holder">
-                        <img alt="" src="https://www.pmits.co.uk/Portals/0/sage business partner.jpg" />
+                        <img alt="" src="assets/images/partners/partner-etf.jpg" />
                     </div>
                 </div>
             </div>

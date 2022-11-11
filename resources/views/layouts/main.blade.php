@@ -22,6 +22,7 @@
 	<link href="{{asset('assets/css/bootstrap-icons.css')}}" rel="stylesheet" />
 	<link href="{{asset('assets/css/tooplate-crispy-kitchen.css')}}" rel="stylesheet" />
 	<link href="{{asset('assets/css/style.css')}}" rel="stylesheet" />
+	<link href="{{asset('assets/css/blog.css')}}" rel="stylesheet" />
 </head>
 
 <body>
