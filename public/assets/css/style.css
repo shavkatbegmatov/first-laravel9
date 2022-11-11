@@ -21,7 +21,7 @@
 }
 
 .my-p {
-	font-size: 1.6em;
+	font-size: 1.3em;
 }
 
 .section-imgage-style {
@@ -156,13 +156,13 @@
     transform: rotateX(60deg);
 }
 
-
-
-
 p {
     margin: 0 0 12px;
 }
 
+strong.upper {
+	text-transform: uppercase;
+}
 
 
 
@@ -499,3 +499,31 @@ a.bmc-btn img{height:33px;margin-top:20px;opacity:.7}
 a.bmc-btn img:hover{opacity:1}
 ul.faq-list li a{color:#4f4f4f}
 ul.faq-list li a:hover{color:#222}
+
+
+
+
+
+
+/* OUR PARTNERS */
+.square-holder {
+  padding:30px;
+  border: 1px solid #cecece;
+  align-items: center;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom:20px;
+  background-color:#f1f1f1;
+  min-height:200px
+}
+
+.square-holder img {
+  max-width:100%;
+  filter: grayscale(100%);
+  transition: all 0.3s;
+}
+
+.square-holder:hover img{
+  filter:none;
+}

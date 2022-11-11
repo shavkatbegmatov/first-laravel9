@@ -34,7 +34,7 @@
 						</div>
 					</div>
                     <div class="row">
-                        <div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/human-resource-development.jpg); background-size: cover;min-height: 30rem">
+                        <div class="position-relative col-lg-6 col-12 mb-2" style="background-image: url(./assets/images/human-resource-development.jpg); background-size: cover;min-height: 30rem">
 							{{-- <img width = 100% src="./assets/images/human-resource-development.jpg" /> --}}
                             {{-- <h4 class="mb-3">Human Resource Development</h4> --}}
 							<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
@@ -43,7 +43,7 @@
 							</div>
                         </div>
 
-                        <div class="col-lg-8 col-12">
+                        <div class="col-lg-6 col-12">
                         	<p class="my-p">Mahorat & Management was founded by a group of expert-initiators on professional education as an independent research and training center to support HRD - Human Resource Development.</p>
                         	<p class="my-p">We are non-governmental educational organization that has been operating since 2015 in the field of adults training, ensuring the quality of education and introducing international standards to local educational process, including the introduction of advanced forms of training and retraining using information technologies, improving curriculum and materials based on the widespread use of modern teaching methods.</p>
                         	<p class="my-p">Mahorat & Management actively cooperates with governmental and non-governmental organizations, and implements short and long term educational projects.</p>
@@ -56,8 +56,8 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 col-xxl-8" style="background-color: rgba(0, 0, 0, 0.5);padding:3rem;">
-                            <p class="my-p" style="font-weight: 900; color:aliceblue">Our mission is to unite and build the capacity of experts in order to improve the mechanisms and systems of vocational education, based on international quality indicators and the requirements of the international labor market.</p>
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-8" style="background-color: rgba(0, 0, 0, 0.5);padding:5rem;">
+                            <p class="my-p" style="font-size: 1.8rem; font-weight: 900; color:aliceblue">Our mission is to unite and build the capacity of experts in order to improve the mechanisms and systems of vocational education, based on international quality indicators and the requirements of the international labor market.</p>
                         </div>
 
                     </div>
@@ -68,18 +68,41 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 col-12">
-                        	<p class="my-p">We aim towards realizing the following key components:</p>
+                        	<h4 >We aim towards realizing the following key components:</h4>
 							<div class="color-box">
                     			<div class="shadow">
                         			<div class="info-tab note-icon" title="Important Notes"><i></i></div>
                         			<div class="note-box">
-                            			<p><strong>educational</strong> - to develop high-quality education, to assist the professional development of managers and teachers,
-professional development and retraining of highly qualified specialists based on the principle of LLL;</p>
+                            			<p class="my-p"><strong class="upper">educational</strong> - to develop high-quality education, to assist the professional development of managers and teachers, professional development and retraining of highly qualified specialists based on the principle of LLL;</p>
+                        			</div>
+                    			</div>
+                			</div>
+							<div class="color-box">
+                    			<div class="shadow">
+                        			<div class="info-tab note-icon" title="Important Notes"><i></i></div>
+                        			<div class="note-box">
+                            			<p class="my-p"><strong class="upper">cultural</strong> - to be a cultural educational center, contributing to a change in the social environment, creating a certain spiritual atmosphere, teaching intelligent and constructive problem solving;</p>
+                        			</div>
+                    			</div>
+                			</div>
+							<div class="color-box">
+                    			<div class="shadow">
+                        			<div class="info-tab note-icon" title="Important Notes"><i></i></div>
+                        			<div class="note-box">
+                            			<p class="my-p"><strong class="upper">innovative</strong> - to provide quality education in accordance with the UNESCO Concept "Education - 2030" and SDG 4 "Quality Education" with the use of new methods and technologies in retraining and advanced training of specialists, developing innovative thinking for people over 18 years old;</p>
+                        			</div>
+                    			</div>
+                			</div>
+							<div class="color-box">
+                    			<div class="shadow">
+                        			<div class="info-tab note-icon" title="Important Notes"><i></i></div>
+                        			<div class="note-box">
+                            			<p class="my-p"><strong class="upper">constructive</strong> - we build a constructive partnership with the local governmental and nongovernmental organizations and individuals according to their interest in a partnership in HRD.</p>
                         			</div>
                     			</div>
                 			</div>
                         </div>
-                        <div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/human-resource-development.jpg); background-size: cover;min-height: 30rem">
+                        <div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/about-key-components-2.jpg); background-size: cover;min-height: 30rem; background-position: center;">
 							<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
 								<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
 							</div>
@@ -88,7 +111,27 @@ professional development and retraining of highly qualified specialists based on
                 </div>
             </section>
 
-
+            <section class="about section-padding bg-white">
+                <div class="container">
+					<div class="row">
+						<div class="col">
+							<h1 class="text-center my-header">HOW WE WORK</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<p class="my-p" style="padding-top: 3rem; font-size: 1.5rem">The name ‘Mahorat’ means Master. The organization's building the
+								international Masters -
+								Experts in reaching the organization’s aim HRD-Human Resource Development by
+								research-based evidence. We embrace
+								the changes toward innovations and constructive dialogue in HRD.</p>
+						</div>
+						<div class="section-wrapper">
+							<img class="section-imgage-style" src="assets/images/section-img-grey.jpg" />
+						</div>
+					</div>
+                </div>
+            </section>
 
 
             <section class="about section-padding">
