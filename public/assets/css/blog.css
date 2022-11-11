@@ -70,6 +70,11 @@ h1, h2, h3, h4, h5, h6 {
   .h-md-250 { height: 250px; }
 }
 
+.h-350 { min-height: 350px; }
+@media (min-width: 768px) {
+  .h-md-230 { min-height: 350px; }
+}
+
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }
 
