@@ -207,19 +207,19 @@
 						<h4 class="text-white mb-4 me-5">Mahorat & Management</h4>
 					</div>
 					<div class="col-lg-4 col-md-7 col-xs-12 tooplate-mt30">
-						<h6 class="text-white mb-lg-4 mb-3">Location</h6>
-						<p>Shota Rustavili Street 53B</p>
-						<p>Tashkent, Uzbekistan</p>
-						<a href="https://yandex.uz/maps/-/CCU6F8VfhA" target="_blank" class="custom-btn btn btn-dark mt-2">Directions</a>
+						<h6 class="text-white mb-lg-4 mb-3">{{ __('messages.footer-location') }}</h6>
+						<p>{{ __('messages.footer-location-1') }}</p>
+						<p>{{ __('messages.footer-location-2') }}</p>
+						<a href="https://yandex.uz/maps/-/CCU6F8VfhA" target="_blank" class="custom-btn btn btn-dark mt-2">{{ __('messages.footer-direction') }}</a>
 					</div>
 					<div class="col-lg-4 col-md-5 col-xs-12 tooplate-mt30">
-						<h6 class="text-white mb-lg-4 mb-3">Opening Hours</h6>
-						<p class="mb-2">Monday - Friday</p>
-						<p>10:00 AM - 08:00 PM</p>
-						<p>Tel: <a href="tel: +99895 195-00-55" class="tel-link">+998 95 195-00-55</a></p>
+						<h6 class="text-white mb-lg-4 mb-3">{{ __('messages.opening-hours') }}</h6>
+						<p class="mb-2">{{ __('messages.opening-hours-1') }}</p>
+						<p>{{ __('messages.opening-hours-2') }}</p>
+						<p>{{ __('messages.opening-hours-3') }} <a href="tel: +99895 195-00-55" class="tel-link">+998 95 195-00-55</a></p>
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12 tooplate-mt30">
-						<h6 class="text-white mb-lg-4 mb-3">Social</h6>
+						<h6 class="text-white mb-lg-4 mb-3">{{ __('messages.footer-social') }}</h6>
 						<ul class="social-icon">
 							<li><a href="https://www.facebook.com/watch/mahoratLC/" target="_blank" class="social-icon-link bi-facebook"></a></li>
 							<li><a href="https://www.instagram.com/mahoratmanagement/" target="_blank" class="social-icon-link bi-instagram"></a></li>

@@ -39,7 +39,7 @@
 				{{-- <h4 class="mb-3">Human Resource Development</h4> --}}
 				<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
 					{{-- <a href="news.html" class="custom-btn btn btn-dark mt-3">Check out News</a> --}}
-					<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
+					{{-- <a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a> --}}
 				</div>
 			</div>
 
@@ -118,19 +118,23 @@
 				<h1 class="text-center my-header">{{ __('messages.how-we-work') }}</h1>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-12">
+				<p class="my-p" style="padding-top: 3rem; font-size: 1.5rem">{{ __('messages.our-strategy') }}</p>
+			</div>
+		</div>
 		<div class="row mb-2">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
 					<div class="card-body d-flex flex-column align-items-start">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
 						<h5 class="mb-0"><a class="text-dark" href="#">{{ __('messages.participation-in-tenders-1') }}</a></h5>
-						<p class="card-text mb-auto">{{ __('messages.participation-in-tenders-2') }}
+						<p style="margin-bottom: 0 !important;" class="card-text mb-auto">{{ __('messages.participation-in-tenders-2') }}</p>
 							<ul class="check-list">
 								<li>{{ __('messages.participation-in-tenders-3') }}</li>
 								<li>{{ __('messages.participation-in-tenders-4') }}</li>
 								<li>{{ __('messages.participation-in-tenders-5') }}</li>
 							</ul>
-						</p>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>
 				</div>
@@ -171,7 +175,7 @@
 
 <section class="section section-default mt-none mb-none">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4">Our <strong>Partners</strong></h2>
+        <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.our-partners') }}</h2>
         <strong>
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">
