@@ -123,8 +123,7 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-250">
 					<div class="card-body d-flex flex-column align-items-start">
 						<strong class="d-inline-block mb-2 text-primary">World</strong>
-						<h3 class="mb-0"><a class="text-dark" href="#">Featured post</a></h3>
-						<div class="mb-1 text-muted">Nov 12</div>
+						<h5 class="mb-0"><a class="text-dark" href="#">Participation in tenders</a></h5>
 						<p class="card-text mb-auto">Participation in tenders for social order to improve the systems of vocational education and training at all levels (ISCED and ISCO):
 							Management of the educational process
 							Recognition of prior learning (RPL)
@@ -138,24 +137,8 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-250">
 					<div class="card-body d-flex flex-column align-items-start">
 						<strong class="d-inline-block mb-2 text-primary">World</strong>
-						<h3 class="mb-0"><a class="text-dark" href="#">Featured post</a></h3>
-						<div class="mb-1 text-muted">Nov 12</div>
+						<h5 class="mb-0"><a class="text-dark" href="#">Outsourcing services</a></h5>
 						<p class="card-text mb-auto">Outsourcing services in certain areas of vocational education and training (VET) and professional development and retraining (CPD-Continuing professional development). RPL - Recognition of Prior Learning.</p>
-						<a href="#">Continue reading</a>
-					</div>
-					<img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
-				</div>
-			</div>
-						<div class="col-md-6">
-				<div class="card flex-md-row mb-4 box-shadow h-md-250">
-					<div class="card-body d-flex flex-column align-items-start">
-						<strong class="d-inline-block mb-2 text-primary">World</strong>
-						<h3 class="mb-0"><a class="text-dark" href="#">Featured post</a></h3>
-						<div class="mb-1 text-muted">Nov 12</div>
-						<p class="card-text mb-auto">Participation in tenders for social order to improve the systems of vocational education and training at all levels (ISCED and ISCO):
-							Management of the educational process
-							Recognition of prior learning (RPL)
-							Systematization, automation and launching of educational processes and systems.</p>
 						<a href="#">Continue reading</a>
 					</div>
 					<img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
@@ -165,9 +148,19 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-250">
 					<div class="card-body d-flex flex-column align-items-start">
 						<strong class="d-inline-block mb-2 text-primary">World</strong>
-						<h3 class="mb-0"><a class="text-dark" href="#">Featured post</a></h3>
-						<div class="mb-1 text-muted">Nov 12</div>
-						<p class="card-text mb-auto">Outsourcing services in certain areas of vocational education and training (VET) and professional development and retraining (CPD-Continuing professional development). RPL - Recognition of Prior Learning.</p>
+						<h5 class="mb-0"><a class="text-dark" href="#">Exchange programs</a></h5>
+						<p class="card-text mb-auto">Organization of exchange programs between educators, researchers, and supervisors.</p>
+						<a href="#">Continue reading</a>
+					</div>
+					<img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="card flex-md-row mb-4 box-shadow h-md-250">
+					<div class="card-body d-flex flex-column align-items-start">
+						<strong class="d-inline-block mb-2 text-primary">World</strong>
+						<h5 class="mb-0"><a class="text-dark" href="#">Support for youth initiatives</a></h5>
+						<p class="card-text mb-auto">Support for youth initiatives aimed at the welfare of the population, by building the capacity of human capital.</p>
 						<a href="#">Continue reading</a>
 					</div>
 					<img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
