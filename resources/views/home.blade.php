@@ -27,7 +27,7 @@
                                 <img src="assets/images/slide/slider-torino5.jpg" class="img-fluid carousel-image" alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text my-font">ETF ‘Torino Process’ project</h4>
+                                <h4 class="hero-text my-font">{{ __('messages.home-carousel-hero-etf') }}</h4>
                             </div>
                         </div>
                         <div class="carousel-item">
@@ -36,8 +36,7 @@
                                     class="img-fluid carousel-image" alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text my-font">Journal Research in Adult Learning
-                                    and Education (RALED)</h4>
+                                <h4 class="hero-text my-font">{{ __('messages.home-carousel-hero-raled') }}</h4>
                             </div>
                         </div>
                         <div class="carousel-item">
@@ -46,20 +45,19 @@
                                     alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text my-font">Creating a regulatory framework of
-                                    dual training system</h4>
+                                <h4 class="hero-text my-font">{{ __('messages.home-carousel-hero-dual') }}</h4>
                             </div>
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button"
                         data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden my-font">Previous</span>
+                        <span class="visually-hidden my-font">{{ __('messages.previous') }}</span>
                     </button>
                     <button class="carousel-control-next" type="button"
                         data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden my-font">Next</span>
+                        <span class="visually-hidden my-font">{{ __('messages.next') }}</span>
                     </button>
                 </div>
             </div>
@@ -80,12 +78,8 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center mb-lg-5 mb-4 my-font">We strive to advance human capital</h2>
-                <p class="my-p">The name ‘Mahorat’ means Master. The organization's building the
-                    international Masters -
-                    Experts in reaching the organization’s aim HRD-Human Resource Development by
-                    research-based evidence. We embrace
-                    the changes toward innovations and constructive dialogue in HRD.</p>
+                <h2 class="text-center mb-lg-5 mb-4 my-font">{{ __('messages.home-we-strive') }}</h2>
+                <p class="my-p">{{ __('messages.home-the-name-mahorat') }}</p>
             </div>
             <div class="section-wrapper">
                 <img class="section-imgage-style" src="assets/images/section-img-grey.jpg" />
@@ -95,7 +89,7 @@
 
 <section class="news section-padding">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4 my-font">OUR PROJECTS</h2>
+        <h2 class="text-center mb-lg-5 mb-4 my-font">{{ __('messages.our-projects') }}</h2>
         <div class="row">
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
@@ -104,50 +98,25 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-success my-font">Projects</span>
+                        <span class="category-tag bg-success my-font">{{ __('messages.projects') }}</span>
 
                         <h5 class="news-title mt-2">
-                            <a href="#" class="news-title-link my-font">ETF ‘Torino Process’
-                                project</a>
+                            <a href="#" class="news-title-link my-font">{{ __('messages.home-carousel-hero-etf') }}</a>
                         </h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-12">
-                <h4>ETF ‘Torino Process’ project</h4>
-                <p class="my-p">
-                    Mahorat & Management has been cooperating with the
-                    European Education Foundation since May 2019 within the
-                    framework of the Torino Process project. It is known that
-                    Uzbekistan has been participating in the Torino Process since
-                    2010 at the initiative of the European Training Foundation.
-                    The Torino process monitors political progress every two
-                    years, allowing partner countries to coordinate and assess
-                    their progress in vocational education and training reforms.
-                </p>
+                <h4>{{ __('messages.home-carousel-hero-etf') }}</h4>
+                <p class="my-p">{{ __('messages.home-carousel-hero-etf-text') }}</p>
 
             </div>
         </div>
         <hr class="my-hr" />
         <div class="row">
             <div class="col-lg-6 col-md-12 col-12">
-                <h4>Journal Research in Adult Learning
-                    and Education (RALED)</h4>
-                <p class="my-p">
-                    The Adult Education and Research (RALED) journal encompasses lifelong learning, quality
-                    assurance and adult learning, in
-                    accordance with labor market requirements. This includes forms of education and
-                    upbringing aimed at ensuring the
-                    participation of adults in society. This journal of research and education is published
-                    by practitioners and researchers
-                    in Uzbekistan and can be a resource for adult learning and education management with the
-                    best practice in the world.
-                    RALED aims to provide a medium for informed discussion about the principles and practice
-                    which determine the methods of
-                    social capital in society. It also provides a forum for the exchange of information and
-                    ideas among practitioners and
-                    researchers worldwide.
-                </p>
+                <h4>{{ __('messages.home-carousel-hero-raled') }}</h4>
+                <p class="my-p">{{ __('messages.home-carousel-hero-raled-text') }}</p>
             </div>
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
@@ -156,12 +125,10 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-success">Projects</span>
+                        <span class="category-tag bg-success">{{ __('messages.projects') }}</span>
 
                         <h5 class="news-title mt-2">
-                            <a href="#" class="news-title-link">Journal Research in Adult
-                                Learning
-                                and Education (RALED)</a>
+                            <a href="#" class="news-title-link">{{ __('messages.home-carousel-hero-raled') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -176,27 +143,17 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-success">Projects</span>
+                        <span class="category-tag bg-success">{{ __('messages.projects') }}</span>
 
                         <h5 class="news-title mt-2">
-                            <a href="#" class="news-title-link">Creating a regulatory framework of
-                                dual training system</a>
+                            <a href="#" class="news-title-link">{{ __('messages.home-carousel-hero-dual') }}</a>
                         </h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-12">
-                <h4>Creating a regulatory framework of
-                    dual training system</h4>
-                <p class="my-p">
-                    The project ‘Creating an educational and regulatory framework and methodological support
-                    for the introduction of a dual
-                    training system in the system of vocational education’ financed by grant funds from the
-                    government, which is implemented
-                    in partnership with Uzbekistan Teachers of English Association (UzTEA),
-                    Mahorat&Management and the Ministry of Higher
-                    and Secondary Specialized Education is an ongoing project.
-                </p>
+                <h4>{{ __('messages.home-carousel-hero-dual') }}</h4>
+                <p class="my-p">{{ __('messages.home-carousel-hero-dual-text') }}</p>
 
             </div>
         </div>
@@ -209,7 +166,7 @@
     <div class="container">
         <div class="row">
 
-            <h2 class="text-center mb-lg-5 mb-4">News &amp; Events</h2>
+            <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.news-and-events') }}</h2>
 
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="news-thumb mb-4">
@@ -219,10 +176,10 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-danger">News</span>
-                        <strong style="background-color: aliceblue;">17 September 2021</strong>
+                        <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
+                        <strong style="background-color: aliceblue;">{{ __('messages.17-09-2021') }}</strong>
                         <h5 class="news-title mt-2">
-                            <a href="news-detail.html" class="news-title-link">We invite you to the IELTS WORKSHOP!</a>
+                            <a href="news-detail.html" class="news-title-link">{{ __('messages.we-invite') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -236,11 +193,11 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-danger">News</span>
-                        <strong style="background-color: aliceblue;">03 June 2021</strong>
+                        <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
+                        <strong style="background-color: aliceblue;">{{ __('messages.03-06-2021') }}</strong>
 
                         <h5 class="news-title mt-2">
-                            <a href="news-detail.html" class="news-title-link">English Language Instructor CELI</a>
+                            <a href="news-detail.html" class="news-title-link">{{ __('messages.instructor-celi') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -254,12 +211,12 @@
                     </a>
 
                     <div class="news-text-info">
-                        <span class="category-tag me-3 bg-info">Video</span>
+                        <span class="category-tag me-3 bg-info">{{ __('messages.video') }}</span>
 
-                        <strong>30 April 2021</strong>
+                        <strong>{{ __('messages.30-04-2021') }}</strong>
 
                         <h5 class="news-title mt-2">
-                            <a href="news-detail.html" class="news-title-link">The Role of Social Civil Organizations in Human Development Capital</a>
+                            <a href="news-detail.html" class="news-title-link">{{ __('messages.the-role-of-social-civil') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -273,11 +230,11 @@
                     </a>
 
                     <div class="news-text-info">
-                        <span class="category-tag">Announcement</span>
-                        <strong>23 March 2021</strong>
+                        <span class="category-tag">{{ __('messages.announcement') }}</span>
+                        <strong>{{ __('messages.23-03-2021') }}</strong>
 
                         <h5 class="news-title mt-2">
-                            <a href="news-detail.html" class="news-title-link">Dear friends, today there was a great running exercise in the Botanical Garden.</a>
+                            <a href="news-detail.html" class="news-title-link">{{ __('messages.botanical-garden') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -291,12 +248,12 @@
                     </a>
 
                     <div class="news-text-info">
-                        <span class="category-tag me-3 bg-info">Meeting</span>
+                        <span class="category-tag me-3 bg-info">{{ __('messages.meeting') }}</span>
 
-                        <strong>02 September 2021</strong>
+                        <strong>{{ __('messages.02-09-2021') }}</strong>
 
                         <h5 class="news-title mt-2">
-                            <a href="news-detail.html" class="news-title-link">UzTEA invites you to a scheduled meeting: Zoom.</a>
+                            <a href="news-detail.html" class="news-title-link">{{ __('messages.uztea-invites-zoom') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -309,7 +266,7 @@
 
 <section class="section section-default mt-none mb-none">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4">Our <strong>Partners</strong></h2>
+        <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.our-partners') }}</h2>
         <strong>
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">
