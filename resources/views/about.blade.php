@@ -15,9 +15,9 @@
 		<div class="row">
 
 			<div class="col-lg-10 col-12 mx-auto">
-				<h1 class="text-white">{{ __('messages.header-who-we-are') }}</h1>
+				<h1 class="text-white my-font">{{ __('messages.header-who-we-are') }}</h1>
 
-				<strong class="text-white">{{ __('messages.sub-header-we-are') }}</strong>
+				<strong class="text-white my-font">{{ __('messages.sub-header-we-are') }}</strong>
 			</div>
 
 		</div>
@@ -39,7 +39,7 @@
 				{{-- <h4 class="mb-3">Human Resource Development</h4> --}}
 				<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
 					{{-- <a href="news.html" class="custom-btn btn btn-dark mt-3">Check out News</a> --}}
-					{{-- <a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a> --}}
+					<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
 				</div>
 			</div>
 
@@ -68,12 +68,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-12">
-				<h4 >{{ __('messages.aim-towards') }}</h4>
+				<h4 class="my-font">{{ __('messages.aim-towards') }}</h4>
 				<div class="color-box">
 					<div class="shadow">
 						<div class="info-tab note-icon" title="Important Notes"><i></i></div>
 						<div class="note-box">
-							<p class="my-p"><strong class="upper">{{ __('messages.aim-educational-1') }}</strong> - {{ __('messages.aim-educational-2') }};</p>
+							<p class="my-p"><strong class="upper my-font">{{ __('messages.aim-educational-1') }}</strong> - {{ __('messages.aim-educational-2') }};</p>
 						</div>
 					</div>
 				</div>
@@ -81,7 +81,7 @@
 					<div class="shadow">
 						<div class="info-tab note-icon" title="Important Notes"><i></i></div>
 						<div class="note-box">
-							<p class="my-p"><strong class="upper">{{ __('messages.aim-cultural-1') }}</strong> - {{ __('messages.aim-cultural-2') }};</p>
+							<p class="my-p"><strong class="upper my-font">{{ __('messages.aim-cultural-1') }}</strong> - {{ __('messages.aim-cultural-2') }};</p>
 						</div>
 					</div>
 				</div>
@@ -89,7 +89,7 @@
 					<div class="shadow">
 						<div class="info-tab note-icon" title="Important Notes"><i></i></div>
 						<div class="note-box">
-							<p class="my-p"><strong class="upper">{{ __('messages.aim-innovative-1') }}</strong> - {{ __('messages.aim-innovative-2') }};</p>
+							<p class="my-p"><strong class="upper my-font">{{ __('messages.aim-innovative-1') }}</strong> - {{ __('messages.aim-innovative-2') }};</p>
 						</div>
 					</div>
 				</div>
@@ -97,7 +97,7 @@
 					<div class="shadow">
 						<div class="info-tab note-icon" title="Important Notes"><i></i></div>
 						<div class="note-box">
-							<p class="my-p"><strong class="upper">{{ __('messages.aim-constructive-1') }}</strong> - {{ __('messages.aim-constructive-2') }}.</p>
+							<p class="my-p"><strong class="upper my-font">{{ __('messages.aim-constructive-1') }}</strong> - {{ __('messages.aim-constructive-2') }}.</p>
 						</div>
 					</div>
 				</div>
@@ -128,12 +128,12 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
 					<div class="card-body d-flex flex-column align-items-start">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark" href="#">{{ __('messages.participation-in-tenders-1') }}</a></h5>
+						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.participation-in-tenders-1') }}</a></h5>
 						<p style="margin-bottom: 0 !important;" class="card-text mb-auto">{{ __('messages.participation-in-tenders-2') }}</p>
 							<ul class="check-list">
-								<li>{{ __('messages.participation-in-tenders-3') }}</li>
-								<li>{{ __('messages.participation-in-tenders-4') }}</li>
-								<li>{{ __('messages.participation-in-tenders-5') }}</li>
+								<li class="my-font">{{ __('messages.participation-in-tenders-3') }}</li>
+								<li class="my-list">{{ __('messages.participation-in-tenders-4') }}</li>
+								<li class="my-list">{{ __('messages.participation-in-tenders-5') }}</li>
 							</ul>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>
@@ -141,9 +141,9 @@
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
-					<div class="card-body d-flex flex-column align-items-start">
+					<div class="card-body d-flex flex-column align-items-start my-font">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark" href="#">{{ __('messages.outsourcing-services-1') }}</a></h5>
+						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.outsourcing-services-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.outsourcing-services-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>
@@ -153,7 +153,7 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
 					<div class="card-body d-flex flex-column align-items-start">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark" href="#">{{ __('messages.exchange-programs-1') }}</a></h5>
+						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.exchange-programs-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.exchange-programs-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>
@@ -163,7 +163,7 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
 					<div class="card-body d-flex flex-column align-items-start">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark" href="#">{{ __('messages.support-for-youth-initiatives-1') }}</a></h5>
+						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.support-for-youth-initiatives-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.support-for-youth-initiatives-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>

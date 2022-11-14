@@ -1,3 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.card-body {
+    font-family: 'Montserrat', sans-serif !important;
+    background-image: url(../../assets/images/card-background-2.jpg);
+}
+
 .navbar-expand-lg .navbar-nav .nav-link {
 	font-weight: 900;
 	/* font-family: 'Yanone Kaffeesatz', sans-serif; */
@@ -28,9 +37,7 @@
 	padding-top: 1rem;
 }
 
-.my-hr {
 
-}
 
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari */
@@ -46,13 +53,23 @@
 	border-bottom: 3px solid rgb(255, 255, 255);
 }
 
-.nav-link:hover {
+.nav-link:hover :not(a){
 	border-bottom: 3px solid red;
 }
 
 .my-header {
 	border-bottom: 3px solid red;
+    font-family: 'Montserrat', sans-serif;
 }
+
+.my-font {
+    font-family: 'Montserrat', sans-serif !important;
+}
+h5.my-font {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+div * {font-family: 'Montserrat', sans-serif !important; }
 
 .changeLang {
 	border: none;

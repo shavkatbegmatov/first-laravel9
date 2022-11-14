@@ -106,7 +106,7 @@
 
 				<a class="navbar-brand" href="/home">
 					<!-- Crispy Kitchen -->
-					<img src="assets/images/logo/mahorat3-80.png" width="180px">
+					<img src="assets/images/logo/mahorat3-80-2.png" style="max-width:180px;max-height=80px">
 				</a>
 
 				<div class="d-lg-none">

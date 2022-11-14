@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-lg-5 col-12 m-auto">
                 <div class="heroText">
-                    <h1 class="text-white mb-lg-5 mb-3">{{ __('messages.home-slider') }}</h1>
+                    <h1 class="text-white mb-lg-5 mb-3 my-font">{{ __('messages.home-slider') }}</h1>
                 </div>
             </div>
             <div class="col-lg-7 col-12">
@@ -24,10 +24,10 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="carousel-image-wrap">
-                                <img src="assets/images/slide/slider-torino4.jpg" class="img-fluid carousel-image" alt="">
+                                <img src="assets/images/slide/slider-torino5.jpg" class="img-fluid carousel-image" alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text">ETF ‘Torino Process’ project</h4>
+                                <h4 class="hero-text my-font">ETF ‘Torino Process’ project</h4>
                             </div>
                         </div>
                         <div class="carousel-item">
@@ -36,7 +36,7 @@
                                     class="img-fluid carousel-image" alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text">Journal Research in Adult Learning
+                                <h4 class="hero-text my-font">Journal Research in Adult Learning
                                     and Education (RALED)</h4>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                                     alt="">
                             </div>
                             <div class="carousel-caption">
-                                <h4 class="hero-text">Creating a regulatory framework of
+                                <h4 class="hero-text my-font">Creating a regulatory framework of
                                     dual training system</h4>
                             </div>
                         </div>
@@ -54,12 +54,12 @@
                     <button class="carousel-control-prev" type="button"
                         data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
+                        <span class="visually-hidden my-font">Previous</span>
                     </button>
                     <button class="carousel-control-next" type="button"
                         data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
+                        <span class="visually-hidden my-font">Next</span>
                     </button>
                 </div>
             </div>
@@ -80,7 +80,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center mb-lg-5 mb-4">We strive to advance human capital</h2>
+                <h2 class="text-center mb-lg-5 mb-4 my-font">We strive to advance human capital</h2>
                 <p class="my-p">The name ‘Mahorat’ means Master. The organization's building the
                     international Masters -
                     Experts in reaching the organization’s aim HRD-Human Resource Development by
@@ -95,7 +95,7 @@
 
 <section class="news section-padding">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4">OUR PROJECTS</h2>
+        <h2 class="text-center mb-lg-5 mb-4 my-font">OUR PROJECTS</h2>
         <div class="row">
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
@@ -104,10 +104,10 @@
                     </a>
 
                     <div class="news-text-info news-text-info-large">
-                        <span class="category-tag bg-success">Projects</span>
+                        <span class="category-tag bg-success my-font">Projects</span>
 
                         <h5 class="news-title mt-2">
-                            <a href="#" class="news-title-link">ETF ‘Torino Process’
+                            <a href="#" class="news-title-link my-font">ETF ‘Torino Process’
                                 project</a>
                         </h5>
                     </div>
@@ -172,7 +172,7 @@
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
                     <a href="#">
-                        <img src="assets/images/section-system.jpg" class="img-fluid news-image" alt="">
+                        <img src="assets/images/section-system2.jpg" class="img-fluid news-image" alt="">
                     </a>
 
                     <div class="news-text-info news-text-info-large">
