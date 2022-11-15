@@ -295,6 +295,10 @@ strong {
   background-image: url('../../assets/images/header/teacher-professional-development.jpg');
 }
 
+.site-services-header {
+  background-image: url('../../assets/images/header/header-services.jpg');
+}
+
 .site-menu-header {
   background-image: url('../assets/images/header/luisa-brimble-aFzg83dvnAI-unsplash.jpg');
 }
