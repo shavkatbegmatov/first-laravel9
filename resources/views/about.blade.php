@@ -128,13 +128,13 @@
 				<div class="card flex-md-row mb-4 box-shadow h-md-350">
 					<div class="card-body d-flex flex-column align-items-start">
 						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.participation-in-tenders-1') }}</a></h5>
+						<h5 class="mb-0"><a class="text-dark my-font" href="">{{ __('messages.participation-in-tenders-1') }}</a></h5>
 						<p style="margin-bottom: 0 !important;" class="card-text mb-auto">{{ __('messages.participation-in-tenders-2') }}</p>
-							<ul class="check-list">
-								<li class="my-font">{{ __('messages.participation-in-tenders-3') }}</li>
-								<li class="my-list">{{ __('messages.participation-in-tenders-4') }}</li>
-								<li class="my-list">{{ __('messages.participation-in-tenders-5') }}</li>
-							</ul>
+						<ul class="check-list">
+							<li class="my-font">{{ __('messages.participation-in-tenders-3') }}</li>
+							<li class="my-list">{{ __('messages.participation-in-tenders-4') }}</li>
+							<li class="my-list">{{ __('messages.participation-in-tenders-5') }}</li>
+						</ul>
 						{{-- <a href="#">Continue reading</a> --}}
 					</div>
 				</div>
@@ -146,6 +146,7 @@
 						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.outsourcing-services-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.outsourcing-services-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
+						<div class="my-card-img my-card-img-1">&nbsp;</div>
 					</div>
 				</div>
 			</div>
@@ -156,6 +157,7 @@
 						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.exchange-programs-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.exchange-programs-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
+						<div class="my-card-img my-card-img-2">&nbsp;</div>
 					</div>
 				</div>
 			</div>
@@ -166,6 +168,7 @@
 						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.support-for-youth-initiatives-1') }}</a></h5>
 						<p class="card-text mb-auto">{{ __('messages.support-for-youth-initiatives-2') }}</p>
 						{{-- <a href="#">Continue reading</a> --}}
+						<div class="my-card-img my-card-img-3">&nbsp;</div>
 					</div>
 				</div>
 			</div>

@@ -4,7 +4,33 @@ body {
 
 .card-body {
     font-family: 'Montserrat', sans-serif !important;
-    background-image: url(../../assets/images/card-background-2.jpg);
+    background-image: url(../../assets/images/card-background-2.png);
+    background-size: cover;
+}
+
+.my-card-img {
+    display: block;
+    background-size:cover;
+    background-position: center;
+    width:100%;
+    -webkit-box-shadow: 2px 2px 8px 3px rgba(0, 41, 199, 0.34);
+    -moz-box-shadow: 2px 2px 8px 3px rgba(0, 41, 199, 0.34);
+    box-shadow: 2px 2px 8px 3px rgba(0, 41, 199, 0.34);
+}
+
+.my-card-img-1 {
+    height: 11vh;
+    background-image: url(../../assets/images/card/01.jpg);
+}
+
+.my-card-img-2 {
+    height: 16vh;
+    background-image: url(../../assets/images/card/02.png);
+}
+
+.my-card-img-3 {
+    height: 16vh;
+    background-image: url(../../assets/images/card/03.jpg);
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {

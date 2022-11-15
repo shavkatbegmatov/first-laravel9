@@ -78,7 +78,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center mb-lg-5 mb-4 my-font">{{ __('messages.home-we-strive') }}</h2>
+                <h2 class="text-center mb-lg-5 mb-4 my-font my-header">{{ __('messages.home-we-strive') }}</h2>
                 <p class="my-p">{{ __('messages.home-the-name-mahorat') }}</p>
             </div>
             <div class="section-wrapper">
@@ -89,7 +89,7 @@
 
 <section class="news section-padding">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4 my-font">{{ __('messages.our-projects') }}</h2>
+        <h2 class="text-center mb-lg-5 mb-4 my-font my-header">{{ __('messages.our-projects') }}</h2>
         <div class="row">
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
@@ -166,7 +166,7 @@
     <div class="container">
         <div class="row">
 
-            <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.news-and-events') }}</h2>
+            <h2 class="text-center mb-lg-5 mb-4 my-header">{{ __('messages.news-and-events') }}</h2>
 
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="news-thumb mb-4">
@@ -266,7 +266,7 @@
 
 <section class="section section-default mt-none mb-none">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.our-partners') }}</h2>
+        <h2 class="text-center mb-lg-5 mb-4 my-header">{{ __('messages.our-partners') }}</h2>
         <strong>
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">
