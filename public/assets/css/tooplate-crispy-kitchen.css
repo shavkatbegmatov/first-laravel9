@@ -704,8 +704,8 @@ strong {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  /* padding-top: 7rem; */
+  /* padding-bottom: 7rem; */
   position: relative;
 }
 

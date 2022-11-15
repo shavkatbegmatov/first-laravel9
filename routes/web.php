@@ -47,4 +47,9 @@ Route::get('/home', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::get('/services', function () {
+    return view('services');
+});
+
 require __DIR__.'/auth.php';
