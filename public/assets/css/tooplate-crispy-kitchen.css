@@ -299,6 +299,10 @@ strong {
   background-image: url('../../assets/images/header/header-services.jpg');
 }
 
+.site-projects-header {
+  background-image: url('../../assets/images/header/header-projects.jpg');
+}
+
 .site-menu-header {
   background-image: url('../assets/images/header/luisa-brimble-aFzg83dvnAI-unsplash.jpg');
 }

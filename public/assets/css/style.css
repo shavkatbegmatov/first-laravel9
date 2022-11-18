@@ -1,41 +1,92 @@
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: red; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+}
+
 body {
     font-family: 'Montserrat', sans-serif !important;
 }
 
+.my-accordion-img {
+    height: 50px;
+}
+
 .my-card-parent {
-    background-color: rgb(221, 240, 48);
+    /* background-color: rgb(221, 240, 48); */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-shrink: 1;
+    /* margin: 1rem; */
+    border-radius: 10px;
+    border: #07a solid 3px;
+    height: 19rem;
+    overflow: auto;
+    margin: 1rem;
 
+-webkit-box-shadow: 10px 10px 23px -1px rgba(0,0,0,0.61);
+-moz-box-shadow: 10px 10px 23px -1px rgba(0,0,0,0.61);
+box-shadow: 10px 10px 23px -1px rgba(0,0,0,0.61);
+}
+
+.my-card-parent:hover {
+    border: rgb(255, 0, 0) solid 3px;
 }
 
 .my-card-parent > div {
-    background-color: #18ac38;
+    /* background-color: #18ac38; */
     margin: 10px;
-    padding: 20px;
-    font-size: 30px;
+    /* padding: 20px; */
+    /* font-size: 30px; */
 }
 
 .my-card-right {
-    background-color: #069;
+    /* background-color: #069; */
     display: flex;
     flex-direction: column;
 }
 
 .my-card-left {
-    background-color: rgb(153, 0, 64);
+    /* background-color: rgb(153, 0, 64); */
     display: flex;
     flex-direction: column;
+    padding-top: 4rem;
 }
 
 .my-card-right > div {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
+    /* background-color: #f1f1f1; */
+    /* margin: 10px; */
+    /* padding: 20px; */
+    /* font-size: 30px; */
 }
+
+.my-card-header {
+    border-bottom: red solid 3px;
+}
+
+.my-card-text {
+    padding-top: 1rem;
+}
+
+
+
 
 .card-body {
     font-family: 'Montserrat', sans-serif !important;
@@ -91,7 +142,8 @@ body {
 }
 
 .my-p {
-	font-size: 1.3em;
+	font-size: 1.3rem;
+    color: var(--bs-body-color);
 }
 
 .section-imgage-style {
@@ -122,6 +174,7 @@ body {
 	border-bottom: 3px solid red;
     font-family: 'Montserrat', sans-serif;
     /* padding-bottom: 2rem; */
+    margin-bottom: 2rem;
 }
 
 .my-header-row {
@@ -135,7 +188,7 @@ h5.my-font {
     font-family: 'Montserrat', sans-serif !important;
 }
 
-div * {font-family: 'Montserrat', sans-serif !important; }
+/* div * {font-family: 'Montserrat', sans-serif !important; } */
 
 .changeLang {
 	border: none;

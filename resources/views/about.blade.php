@@ -28,7 +28,7 @@
 
 <section class="about section-padding bg-white">
 	<div class="container">
-		<div class="row">
+		<div class="row my-header-row">
 			<div class="col">
 				<h1 class="text-center my-header" style="text-transform: uppercase;">{{ __('messages.header-who-we-are') }}</h1>
 			</div>

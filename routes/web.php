@@ -52,4 +52,8 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/projects', function () {
+    return view('projects');
+});
+
 require __DIR__.'/auth.php';

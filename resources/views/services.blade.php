@@ -15,8 +15,8 @@
 		<div class="row">
 
 			<div class="col-lg-10 col-12 mx-auto">
-				<h1 class="text-white my-font">{{ __('services.header-services') }}</h1>
-				<strong class="text-white my-font">{{ __('services.sub-header-services') }}</strong>
+				<h1 class="text-white my-font">{{ __('services.header') }}</h1>
+				<strong class="text-white my-font">{{ __('services.sub-header') }}</strong>
 			</div>
 
 		</div>
@@ -40,51 +40,103 @@
 				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
 					<div class="my-card-parent">
 						<div class="my-card-left">
-							1
+							<img src="assets/images/services/4-services/services-research.jpg" alt="" width="130px">
 						</div>
 						<div class="my-card-right">
-							<div class="my-cart-header">
-								2
+							<div class="my-card-header">
+								<h4>{{ __('services.research') }}</h4>
 							</div>
-							<div class="my-cart-text">
-								3
+							<div class="my-card-text">
+								<p class="my-p">{{ __('services.research-text') }}</p>
 							</div>
 						</div>
 					</div>
 				{{-- </div> --}}
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
-				<div class="card flex-md-row mb-4 box-shadow h-md-350">
-					<div class="card-body d-flex flex-column align-items-start my-font">
-						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.outsourcing-services-1') }}</a></h5>
-						<p class="card-text mb-auto">{{ __('messages.outsourcing-services-2') }}</p>
-						{{-- <a href="#">Continue reading</a> --}}
-						<div class="my-card-img my-card-img-1">&nbsp;</div>
+				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
+					<div class="my-card-parent">
+						<div class="my-card-left">
+							<img src="assets/images/services/4-services/services-learning.jpg" alt="" width="130px">
+						</div>
+						<div class="my-card-right">
+							<div class="my-card-header">
+								<h4>{{ __('services.learning') }}</h4>
+							</div>
+							<div class="my-card-text">
+								<p class="my-p">{{ __('services.learning-text') }}</p>
+							</div>
+						</div>
 					</div>
-				</div>
+				{{-- </div> --}}
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
-				<div class="card flex-md-row mb-4 box-shadow h-md-350">
-					<div class="card-body d-flex flex-column align-items-start">
-						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.exchange-programs-1') }}</a></h5>
-						<p class="card-text mb-auto">{{ __('messages.exchange-programs-2') }}</p>
-						{{-- <a href="#">Continue reading</a> --}}
-						<div class="my-card-img my-card-img-2">&nbsp;</div>
+				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
+					<div class="my-card-parent">
+						<div class="my-card-left">
+							<img src="assets/images/services/4-services/services-translating.jpg" alt="" width="130px">
+						</div>
+						<div class="my-card-right">
+							<div class="my-card-header">
+								<h4>Translation services</h4>
+							</div>
+							<div class="my-card-text">
+								<p class="my-p">Written and oral translations from English into Russian, Uzbek, Tajik, Kazakh, Turkmen languages and vice versa.</p>
+							</div>
+						</div>
 					</div>
-				</div>
+				{{-- </div> --}}
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
-				<div class="card flex-md-row mb-4 box-shadow h-md-350">
-					<div class="card-body d-flex flex-column align-items-start">
-						{{-- <strong class="d-inline-block mb-2 text-primary">World</strong> --}}
-						<h5 class="mb-0"><a class="text-dark my-font" href="#">{{ __('messages.support-for-youth-initiatives-1') }}</a></h5>
-						<p class="card-text mb-auto">{{ __('messages.support-for-youth-initiatives-2') }}</p>
-						{{-- <a href="#">Continue reading</a> --}}
-						<div class="my-card-img my-card-img-3">&nbsp;</div>
+				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
+					<div class="my-card-parent">
+						<div class="my-card-left">
+							<img src="assets/images/services/4-services/services-organizer.jpg" alt="" width="130px">
+						</div>
+						<div class="my-card-right">
+							<div class="my-card-header">
+								<h4>Event Management</h4>
+							</div>
+							<div class="my-card-text">
+								<p class="my-p">Organizing round tables, conferences, webinars, trainings, workshops with the officials, professional associations, and non-governmental organizations.</p>
+							</div>
+						</div>
 					</div>
-				</div>
+				{{-- </div> --}}
+			</div>
+			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
+				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
+					<div class="my-card-parent">
+						<div class="my-card-left">
+							<img src="assets/images/services/4-services/services-group.jpg" alt="" width="130px">
+						</div>
+						<div class="my-card-right">
+							<div class="my-card-header">
+								<h4>Logistics</h4>
+							</div>
+							<div class="my-card-text">
+								<p class="my-p">Open to provide logistic services for the international and local partners. Provision of logistics services, including transfers, technical support in organizing trainings, coffee breaks, seminars and other events.</p>
+							</div>
+						</div>
+					</div>
+				{{-- </div> --}}
+			</div>
+			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6">
+				{{-- <div class="card flex-md-row mb-4 box-shadow h-md-350"> --}}
+					<div class="my-card-parent">
+						<div class="my-card-left">
+							<img src="assets/images/services/4-services/services-research.jpg" alt="" width="130px">
+						</div>
+						<div class="my-card-right">
+							<div class="my-card-header">
+								<h4>Outsourcing</h4>
+							</div>
+							<div class="my-card-text">
+								<p class="my-p">Offering following outsourcing services: Finance management (tax reporting; accounting); IT Support; Data analysis</p>
+							</div>
+						</div>
+					</div>
+				{{-- </div> --}}
 			</div>
 		</div>
 	</div>
@@ -92,7 +144,7 @@
 
 <section class="section section-default mt-none mb-none">
     <div class="container">
-        <h2 class="text-center mb-lg-5 mb-4">{{ __('messages.our-partners') }}</h2>
+        <h2 class="text-center mb-lg-5 mb-4 my-header">{{ __('messages.our-partners') }}</h2>
         <strong>
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">

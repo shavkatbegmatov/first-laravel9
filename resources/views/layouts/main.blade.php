@@ -14,6 +14,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
 	<link href="{{asset('assets/css/icomoon.css')}}" rel="stylesheet">
+	<link href="{{asset('assets/fontawesome/css/all.min.css')}}" rel="stylesheet">
 
 
 	<!-- MDB -->
