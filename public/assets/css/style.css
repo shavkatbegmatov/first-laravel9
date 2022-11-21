@@ -162,6 +162,56 @@ box-shadow: 10px 10px 23px -1px rgba(0,0,0,0.61);
                                   supported by Chrome, Edge, Opera and Firefox */
 }
 
+
+/*Красивое оформление цитат на сайте*/
+blockquote {
+    margin: 1rem;
+    background: #FFF4ED;
+    padding: 40px;
+    color: #3F484D;
+    position: relative;
+    /* font-family: 'Lato', sans-serif; */
+    text-align: center;
+}
+
+blockquote:before, blockquote:after {
+    font-size: 45px;
+    color: #3CA1D9;
+    position: absolute;
+    height: 2px;
+    left: 40px;
+    right: 40px;
+    line-height: .5;
+    background: linear-gradient(to right, #3CA1D9 45%, transparent 45%, transparent), linear-gradient(to right, transparent, transparent 55%, #3CA1D9 55%);
+    font-family: serif;
+}
+
+blockquote:before {
+    content: "\201C";
+    top: 30px;
+}
+
+blockquote:after {
+    content: "\201D";
+    bottom: 30px;
+}
+
+blockquote p {
+    font-size: 20px;
+}
+
+blockquote footer {
+    margin-bottom: 1em;
+}
+
+blockquote cite {
+    font-style: normal;
+}
+
+
+
+
+
 .nav-link {
 	border-bottom: 3px solid rgb(255, 255, 255);
 }

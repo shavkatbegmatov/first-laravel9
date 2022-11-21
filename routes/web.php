@@ -56,4 +56,8 @@ Route::get('/projects', function () {
     return view('projects');
 });
 
+Route::get('/experts', function () {
+    return view('experts');
+});
+
 require __DIR__.'/auth.php';
