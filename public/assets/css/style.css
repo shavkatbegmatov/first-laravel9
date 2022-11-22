@@ -1,6 +1,6 @@
 /* width */
 ::-webkit-scrollbar {
-    width: 20px;
+    width: 10px;
 }
 
 /* Track */
@@ -11,13 +11,13 @@
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: red; 
+    background: rgb(4, 0, 255); 
     border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #b30000; 
+    background: #3b5beb; 
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 .my-accordion-img {
-    height: 50px;
+    width: 48px;
 }
 
 .my-card-parent {
@@ -146,6 +146,9 @@ box-shadow: 10px 10px 23px -1px rgba(0,0,0,0.61);
     color: var(--bs-body-color);
 }
 
+.myp-fs-1r {
+    font-size: 1.0rem;
+}
 .section-imgage-style {
 	padding-top: 1rem;
 }
