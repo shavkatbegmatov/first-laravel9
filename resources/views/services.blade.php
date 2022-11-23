@@ -78,10 +78,10 @@
 						</div>
 						<div class="my-card-right">
 							<div class="my-card-header">
-								<h4>Translation services</h4>
+								<h4>{{ __('services.translation-services') }}</h4>
 							</div>
 							<div class="my-card-text">
-								<p class="my-p">Written and oral translations from English into Russian, Uzbek, Tajik, Kazakh, Turkmen languages and vice versa.</p>
+								<p class="my-p">{{ __('services.translation-services-text') }}</p>
 							</div>
 						</div>
 					</div>
@@ -95,10 +95,10 @@
 						</div>
 						<div class="my-card-right">
 							<div class="my-card-header">
-								<h4>Event Management</h4>
+								<h4>{{ __('services.event-management') }}</h4>
 							</div>
 							<div class="my-card-text">
-								<p class="my-p">Organizing round tables, conferences, webinars, trainings, workshops with the officials, professional associations, and non-governmental organizations.</p>
+								<p class="my-p">{{ __('services.event-management-text') }}</p>
 							</div>
 						</div>
 					</div>
@@ -112,10 +112,10 @@
 						</div>
 						<div class="my-card-right">
 							<div class="my-card-header">
-								<h4>Logistics</h4>
+								<h4>{{ __('services.logistics') }}</h4>
 							</div>
 							<div class="my-card-text">
-								<p class="my-p">Open to provide logistic services for the international and local partners. Provision of logistics services, including transfers, technical support in organizing trainings, coffee breaks, seminars and other events.</p>
+								<p class="my-p">{{ __('services.logistics-text') }}</p>
 							</div>
 						</div>
 					</div>
@@ -129,10 +129,10 @@
 						</div>
 						<div class="my-card-right">
 							<div class="my-card-header">
-								<h4>Outsourcing</h4>
+								<h4>{{ __('services.outsourcing') }}</h4>
 							</div>
 							<div class="my-card-text">
-								<p class="my-p">Offering following outsourcing services: Finance management (tax reporting; accounting); IT Support; Data analysis</p>
+								<p class="my-p">{{ __('services.outsourcing-text') }}</p>
 							</div>
 						</div>
 					</div>

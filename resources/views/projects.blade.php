@@ -47,7 +47,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-retraining.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>Retraining and advanced training courses for adults</h4>
+								<h4>{{ __('projects.proj-01-retraining-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -60,21 +60,21 @@
 							</div>
 							<div class="col col-sm-12 col-md-12 col-lg-6">
 								<p class="my-p">
-									Today, the number of participants in the program exceeds 600 people, for whom online trainings are regularly organized with the participation of qualified teachers and psychologists. To improve the professional competency of managers and teachers in the field of education (teachers of all categories, methodologists, assessors, trainers, researchers and specialists) in accordance with the levels of International Standard Classification of Education since 2018 Mahorat & Management implementing a Program “Continuing Professional Development Program for Educators” that serves as a "road map" for managers and teachers to improve their professional skills from primary level to international expert level.
+									{{ __('projects.proj-01-retraining-01') }}
 								</p>
 							</div>
 						</div>
 						<p class="my-p">
-							The CPD "Road map" includes: Based on this Program managers / teachers improve their skills on the basis of the principle of lifelong learning at 4 levels:
+							{{ __('projects.proj-01-retraining-02') }}
 						</p>
 						<ul class="list-unstyled my-p">
-							<li><i class="fa-solid fa-check"></i> Foundation level</li>
-							<li><i class="fa-solid fa-check"></i> Developing level</li>
-							<li><i class="fa-solid fa-check"></i> Expert level </li>
-							<li><i class="fa-solid fa-check"></i> National Expert at International Level</li>
+							<li><i class="fa-solid fa-check"></i> {{ __('projects.proj-01-retraining-03') }}</li>
+							<li><i class="fa-solid fa-check"></i> {{ __('projects.proj-01-retraining-04') }}</li>
+							<li><i class="fa-solid fa-check"></i> {{ __('projects.proj-01-retraining-05') }}</li>
+							<li><i class="fa-solid fa-check"></i> {{ __('projects.proj-01-retraining-06') }}</li>
 						</ul>
 						<p class="my-p">
-							Each level consists of 5 modules which equals a total of 180 hours of trainings. The total volume of practical and theoretical training on 4 qualification levels is 720 hours. An individual (pedagogues, managers) who successfully passes each level is awarded a Certificate of Achievement, which indicates their level of qualification in their working sphere.
+							{{ __('projects.proj-01-retraining-07') }}
 						</p>
 					</div>
 				</div>

@@ -59,7 +59,7 @@ return [
 	'previous' => 'Предыдущий',
 	'next' => 'Следующий',
 	'home-we-strive' => 'Мы стремимся развивать человеческий капитал',
-	'home-the-name-mahorat' => 'The name ‘Mahorat’ means Master. The organization\'s building the international Masters - Experts in reaching the organization’s aim HRD-Human Resource Development by research-based evidence. We embrace the changes toward innovations and constructive dialogue in HRD.',
+	'home-the-name-mahorat' => 'Имя "Махорат" означает "Мастер". Организация готовит международных магистров - экспертов для достижения основной цели организации - Развития человеческих ресурсов на основе научных исследований. Мы приветствуем изменения в сторону инноваций и конструктивного диалога в области HRD.',
 	'our-projects' => 'Наши проекты',
 	'projects' => 'Проекты',
 	// 'home-carousel-hero-etf' => 'ETF ‘Torino Process’ project',
