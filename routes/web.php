@@ -60,4 +60,8 @@ Route::get('/experts', function () {
     return view('experts');
 });
 
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 require __DIR__.'/auth.php';

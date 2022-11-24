@@ -31,7 +31,7 @@
 	<div class="container">
 		<div class="row my-header-row">
 			<div class="col">
-				<h2 class="text-center my-header">{{ __('experts.our-experts') }}</h2>
+				<h2 class="text-center my-header">{{ __('contact.our-experts') }}</h2>
 				{{-- <p class="my-p">{{ __('experts.our-experts-text') }}</p> --}}
 			</div>
 		</div>
