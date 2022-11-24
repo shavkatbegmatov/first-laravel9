@@ -24,6 +24,31 @@ body {
     font-family: 'Montserrat', sans-serif !important;
 }
 
+.my-h4-projects {
+    font-size: 1rem;
+}
+
+.my-logo {
+    max-width:180px;
+    max-height:80px;
+}
+
+@media screen and (max-width: 480px) {
+    .my-h4-projects {
+        font-size: 1.1rem;
+    }
+    .my-p {
+        font-size: 1rem !important;
+    }
+    .my-logo {
+    max-width:90px;
+    max-height:40px;
+}
+
+}
+
+
+
 .my-accordion-img {
     width: 48px;
 }

@@ -47,7 +47,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-retraining.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-01-retraining-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-01-retraining-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -55,10 +55,10 @@
 				<div id="panelsStayOpen-collapse-01" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-heading-01">
 					<div class="accordion-body">
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<img style="width: 100%;" src="assets/images/projects/projects-retraining.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<p class="my-p">
 									{{ __('projects.proj-01-retraining-01') }}
 								</p>
@@ -88,7 +88,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-journal.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-02-journal-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-02-journal-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -96,10 +96,10 @@
 				<div id="panelsStayOpen-collapse-02" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-heading-02">
 					<div class="accordion-body">
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<img style="width: 100%;" src="assets/images/projects/projects-journal.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<p class="my-p">
 									{{ __('projects.proj-02-journal-01') }}
 								</p>
@@ -131,7 +131,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-senior.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-03-senior-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-03-senior-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -153,7 +153,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-vet-reforms.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-04-vet-reforms-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-04-vet-reforms-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -178,7 +178,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-etf-civil.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-05-etf-civil-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-05-etf-civil-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -186,10 +186,10 @@
 				<div id="panelsStayOpen-collapse-05" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-heading-05">
 					<div class="accordion-body">
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<img style="width: 100%;" src="assets/images/projects/projects-etf-civil.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<p class="my-p">
 									{{ __('projects.proj-05-etf-civil-01') }}
 								</p>
@@ -218,7 +218,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-etf-torino.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-06-etf-torino-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-06-etf-torino-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -226,10 +226,10 @@
 				<div id="panelsStayOpen-collapse-06" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-heading-06">
 					<div class="accordion-body">
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<img style="width: 100%;" src="assets/images/projects/projects-etf-torino2.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-6">
+							<div class="col-sm-12 col-md-12 col-lg-6">
 								<p class="my-p">
 									{{ __('projects.proj-06-etf-torino-01') }}
 								</p>
@@ -250,7 +250,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-etf-darya.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-07-etf-darya-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-07-etf-darya-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -258,10 +258,10 @@
 				<div id="panelsStayOpen-collapse-07" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-heading-07">
 					<div class="accordion-body">
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-3">
+							<div class="col-sm-12 col-md-12 col-lg-3">
 								<img style="width: 100%;" src="assets/images/projects/projects-etf-darya.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-9">
+							<div class="col-sm-12 col-md-12 col-lg-9">
 								<p class="my-p">
 									{{ __('projects.proj-07-etf-darya-01') }}
 								</p>
@@ -282,7 +282,7 @@
 								<img class="my-accordion-img" src="assets/images/projects/icons/projects-uztea.svg" alt="">
 							</div>
 							<div style="margin-left: 1rem">
-								<h4>{{ __('projects.proj-08-uztea-title') }}</h4>
+								<h4 class="my-h4-projects">{{ __('projects.proj-08-uztea-title') }}</h4>
 							</div>
 						</div>
 					</button>
@@ -296,10 +296,10 @@
 							{{-- <footer>— <cite>Coco Chanel</cite></footer> --}}
 						</blockquote>
 						<div class="row">
-							<div class="col col-sm-12 col-md-12 col-lg-3">
+							<div class="col-sm-12 col-md-12 col-lg-3">
 								<img style="width: 100%;" src="assets/images/projects/projects-uztea.jpg" alt="">
 							</div>
-							<div class="col col-sm-12 col-md-12 col-lg-9">
+							<div class="col-sm-12 col-md-12 col-lg-9">
 								<p class="my-p">
 									{{ __('projects.proj-08-uztea-02') }}
 								</p>
