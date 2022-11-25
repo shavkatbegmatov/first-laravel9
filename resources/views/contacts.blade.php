@@ -40,6 +40,7 @@
 
 
 <link href="{{asset('assets/contact/css/style.css')}}" rel="stylesheet" />
+{{-- <link href="{{asset('assets\material-design-bootstrap\css\core.min.css')}}" rel="stylesheet" /> --}}
 
 
 <section class="ftco-section">
