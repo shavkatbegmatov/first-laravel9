@@ -244,8 +244,14 @@ blockquote cite {
 	border-bottom: 3px solid rgb(255, 255, 255);
 }
 
-.nav-link:hover :not(a){
+.nav-link:hover {
 	border-bottom: 3px solid red;
+}
+
+.navbar-nav .nav-link.active, 
+.nav-link:focus, 
+.nav-link:hover {
+    text-decoration: none;
 }
 
 .my-header {
