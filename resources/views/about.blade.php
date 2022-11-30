@@ -39,7 +39,7 @@
 				{{-- <h4 class="mb-3">Human Resource Development</h4> --}}
 				<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
 					{{-- <a href="news.html" class="custom-btn btn btn-dark mt-3">Check out News</a> --}}
-					<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
+					{{-- <a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a> --}}
 				</div>
 			</div>
 
@@ -104,7 +104,7 @@
 			</div>
 			<div class="position-relative col-lg-4 col-12 mb-2" style="background-image: url(./assets/images/about-key-components-2.jpg); background-size: cover;min-height: 30rem; background-position: center;">
 				<div class="position-absolute bottom-0 end-0" style="margin: 1rem">
-					<a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a>
+					{{-- <a href="contact.html" class="custom-btn btn btn-success danger mt-3 ms-3">Say Hi</a> --}}
 				</div>
 			</div>
 		</div>

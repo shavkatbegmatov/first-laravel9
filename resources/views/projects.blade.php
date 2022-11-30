@@ -32,7 +32,15 @@
 		<div class="row my-header-row">
 			<div class="col">
 				<h2 class="text-center my-header">{{ __('projects.our-projects') }}</h2>
-				<p class="my-p">{{ __('projects.our-projects-text') }}</p>
+				<div class="row">
+					<div class="col-sm-12 col-md-12 col-lg-6">
+						<p class="my-p">{{ __('projects.our-projects-text-01') }}</p>
+					</div>
+					<div class="col-sm-12 col-md-12 col-lg-6">
+						<p class="my-p">{{ __('projects.our-projects-text-02') }}</p>
+						<p class="my-p">{{ __('projects.our-projects-text-03') }}</p>
+					</div>
+				</div>
 			</div>
 		</div>
 

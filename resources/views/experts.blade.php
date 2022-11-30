@@ -61,10 +61,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.khudaynazar-kurbanov-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/khudaynazar-kurbanov-70950723b" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -86,10 +86,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.feruza-rashidova-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/dr-feruza-rashidova-01438326" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -111,10 +111,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.shuhratxoja-amanov-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/shukhrathoja-amanov-mba-916a3513/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -136,10 +136,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.farhod-furkatov-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/farhodf/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -161,10 +161,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.sultanmurad-hamroev-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -186,10 +186,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.alisher-akmaljonov-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/alisher-akmaljonov-447125233/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -211,10 +211,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.sadokat-kaziyeva-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/sadokat/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -236,10 +236,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.sirojiddin-olimov-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/sirojiddinolimov/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -261,10 +261,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.nodir-ergashev-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href=""><i class="fa-brands fa-facebook-f"></i></a>
+								<a href=""><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href=""><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>
@@ -286,10 +286,10 @@
 								<p class="my-p myp-fs-1r">{{ __('experts.sabrina-bakhtiyorova-more') }}</p>
 							</div>
 							<div class="sch-social">
-								<i class="fa-brands fa-facebook-f"></i>
-								<i class="fa-brands fa-linkedin-in"></i>
+								<a href="" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+								<a href="https://www.linkedin.com/in/sabrina-bakhtiyorova-201694207/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 								{{-- <i class="fa-brands fa-twitter"></i> --}}
-								<i class="fa-regular fa-envelope"></i>
+								<a href="" target="_blank"><i class="fa-regular fa-envelope"></i></a>
 							</div>
 						</div>
 					</div>

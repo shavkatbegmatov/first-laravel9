@@ -43,6 +43,40 @@
 {{-- <link href="{{asset('assets\material-design-bootstrap\css\core.min.css')}}" rel="stylesheet" /> --}}
 
 
+{{-- <section class="contact-us text-center">
+	<div class="fields">
+		<div class="container">
+			<div class="row">
+				<i class="fa fa-headphones fa-5x"></i>
+				<h2>Contact Us</h2>
+				<p class="lead">Feel free to contact us</p>
+				<form action="" role="form" class="">
+					<div class="col-md-6">
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="User Name"/>
+						</div>
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="Email"/>
+						</div>
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="Phone Number"/>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<textarea class="form-control" placeholder="Your Message"></textarea>
+						</div>
+						<button type="button" class="btn btn-danger btn-lg btn-block">Contact Us</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section> --}}
+
+
+
+
 <section class="ftco-section">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -56,7 +90,7 @@
 									<span class="fa fa-map-marker"></span>
 								</div>
 								<div class="text">
-									<p><span>Address:</span> Shota Rustavili Street 53B <br /> Tashkent, Uzbekistan 100003</p>
+									<p><span>{{ __('contacts.address') }}</span> {{ __('contacts.address-1') }} <br /> {{ __('contacts.address-2') }}</p>
 								</div>
 							</div>
 						</div>
@@ -66,7 +100,7 @@
 									<span class="fa fa-phone"></span>
 								</div>
 								<div class="text">
-									<p><span>Phone:</span> <a href="tel://998951950055">+998 95 195-00-55</a></p>
+									<p><span>{{ __('contacts.phone') }}</span> <a href="tel://998951950055">+998 95 195-00-55</a></p>
 								</div>
 							</div>
 						</div>
@@ -85,40 +119,40 @@
 					<div class="row no-gutters mb-5">
 						<div class="col-md-7">
 							<div class="contact-wrap w-100 p-md-5 p-4">
-								<h3 class="mb-4">Contact Us</h3>
+								<h3 class="mb-4">{{ __('contacts.contact-us') }}</h3>
 								<div id="form-message-warning" class="mb-4"></div>
 								<div id="form-message-success" class="mb-4">
-									Your message was sent, thank you!
+									{{ __('contacts.your-message') }}
 								</div>
 								<form method="POST" id="contactForm" name="contactForm" class="contactForm">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="form-group">
-												<label class="label" for="name">Full Name</label>
-												<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+												<label class="label" for="name">{{ __('contacts.full-name') }}</label>
+												<input type="text" class="form-control" name="name" id="name" placeholder="{{ __('contacts.full-name') }}">
 											</div>
 										</div>
 										<div class="col-md-6"> 
 											<div class="form-group">
-												<label class="label" for="email">Email Address</label>
-												<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+												<label class="label" for="email">{{ __('contacts.email-address') }}</label>
+												<input type="email" class="form-control" name="email" id="email" placeholder="{{ __('contacts.email-address') }}">
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<label class="label" for="subject">Subject</label>
-												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+												<label class="label" for="subject">{{ __('contacts.subject') }}</label>
+												<input type="text" class="form-control" name="subject" id="subject" placeholder="{{ __('contacts.subject') }}">
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<label class="label" for="#">Message</label>
-												<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+												<label class="label" for="#">{{ __('contacts.message') }}</label>
+												<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="{{ __('contacts.message') }}"></textarea>
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<input type="submit" value="Send Message" class="btn btn-primary">
+												<input type="submit" value="{{ __('contacts.send-message') }}" class="btn btn-primary">
 												<div class="submitting"></div>
 											</div>
 										</div>

@@ -133,6 +133,9 @@
 
 
 	<!-- Modal -->
+	<style>
+		/* border: 1px solid #ced4da; */
+	</style>
 	<div class="modal fade" id="BookingModal" tabindex="-1" aria-labelledby="BookingModal" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered modal-xl">
 			<div class="modal-content">

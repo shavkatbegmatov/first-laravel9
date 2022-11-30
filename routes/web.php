@@ -64,4 +64,4 @@ Route::get('/contacts', function () {
     return view('contacts');
 });
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';

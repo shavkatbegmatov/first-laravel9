@@ -17,8 +17,5 @@ return [
 	'logistics-text' => 'Open to provide logistic services for the international and local partners. Provision of logistics services, including transfers, technical support in organizing trainings, coffee breaks, seminars and other events.',
 	'outsourcing' => 'Outsourcing',
 	'outsourcing-text' => 'Offering following outsourcing services: Finance management (tax reporting; accounting); IT Support; Data analysis',
-	'outsourcing' => 'Outsourcing',
-	'outsourcing-text' => 'Offering following outsourcing services: Finance management (tax reporting; accounting); IT Support; Data analysis',
-
 
 ];

@@ -101,19 +101,19 @@
     transform: translate(0, -8);
 }
 
-#nav-demo-1 .sch-social i:nth-child(1) {
+#nav-demo-1 .sch-social a:nth-child(1) i {
     color: #3b5998;
     border: 1px solid #3b5998;
 }
-#nav-demo-1 .sch-social i:nth-child(2) {
+#nav-demo-1 .sch-social a:nth-child(2) i {
     color: #D34836;
     border: 1px solid #D34836;
 }
-#nav-demo-1 .sch-social i:nth-child(3) {
+#nav-demo-1 .sch-social a:nth-child(3) i {
     color: #019AD1;
     border: 1px solid #019AD1;
 }
-#nav-demo-1 .sch-social i:nth-child(4) {
+#nav-demo-1 .sch-social a:nth-child(4) i {
     color: #019AD1;
     border: 1px solid #019AD1;
 }
