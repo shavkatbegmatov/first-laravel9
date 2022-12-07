@@ -9,7 +9,7 @@ return [
 	'khudaynazar-kurbanov-1' => 'Xudaynazar',
 	'khudaynazar-kurbanov-2' => 'Kurbanov',
 	'khudaynazar-kurbanov-work-1' => 'Mahorat & Management',
-	'khudaynazar-kurbanov-work-2' => 'asoschisi / bosh direktori',
+	'khudaynazar-kurbanov-work-2' => 'asoschisi va direktori',
 	'khudaynazar-kurbanov-more' => 'Ilmiy xodim (kasb-hunar ta’limi sohasida). NQF, ISCED (UNESCO), Ta‘lim sifatini ta’minlash sohalarida xalqaro tajribaga ega mutaxassis. Kontent ishlab chiqaruvchisi. Loyihalar bo’yicha menejer. Mahorat & Management tashkiloti hammuassisi. Xalqaro va milliy loyihalarda 18 yillik konsalting tajribasiga ega.',
 
 	'feruza-rashidova-1' => 'Dr. Feruza',

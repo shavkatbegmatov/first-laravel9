@@ -9,7 +9,7 @@ return [
 	'khudaynazar-kurbanov-1' => 'Худойназар',
 	'khudaynazar-kurbanov-2' => 'Курбанов',
 	'khudaynazar-kurbanov-work-1' => 'Mahorat & Management',
-	'khudaynazar-kurbanov-work-2' => 'асосчиси / бош директори',
+	'khudaynazar-kurbanov-work-2' => 'асосчиси ва директори',
 	'khudaynazar-kurbanov-more' => 'Илмий ходим (касб-ҳунар таълими соҳасида). NQF, ISCED (ЮНЕСКО), Таълим сифатини таъминлаш соҳаларида халқаро тажрибага эга мутахассис. Контент ишлаб чиқарувчиси. Лойиҳалар бўйича менежер. “Mahorat & Management” ташкилоти ҳаммуассиси. Халқаро ва миллий лойиҳаларда 18  йиллик консалтинг тажрибасига эга.',
 
 	'feruza-rashidova-1' => 'Dr. Феруза',
