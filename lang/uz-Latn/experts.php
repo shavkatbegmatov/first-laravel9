@@ -12,10 +12,10 @@ return [
 	'khudaynazar-kurbanov-work-2' => 'Mahorat & Management',
 	'khudaynazar-kurbanov-more' => 'Ilmiy xodim (kasb-hunar ta’limi sohasida). NQF, ISCED (UNESCO), Ta‘lim sifatini ta’minlash sohalarida xalqaro tajribaga ega mutaxassis. Kontent ishlab chiqaruvchisi. Loyihalar bo’yicha menejer. Mahorat & Management tashkiloti hammuassisi. Xalqaro va milliy loyihalarda 18 yillik konsalting tajribasiga ega.',
 
-	'feruza-rashidova-1' => 'Feruza',
+	'feruza-rashidova-1' => 'Dr. Feruza',
 	'feruza-rashidova-2' => 'Rashidova',
-	'feruza-rashidova-work-1' => 'QA Expert in Education system',
-	'feruza-rashidova-work-2' => 'PhD in Pedagogy',
+	'feruza-rashidova-work-1' => 'Ta’lim sifatini oshirish sohasida ekspert',
+	'feruza-rashidova-work-2' => 'Pedagogika fanlari doktori',
 	'feruza-rashidova-more' => 'Pedagogika fanlari doktori. Ta’lim tizimining sifati bo‘yicha 20 yildan ortiq ish stajiga ega mutaxassis. Ta’lim dasturlari va tizimlari sifatini ta’minlash bo‘yicha 10 yildan ortiq tajribaga ega  mutaxassis va trener. Kontent ishlab chiqaruvchisi. Loyihalar bo‘yicha menejer. “Mahorat & Management” tashkilotining boy konsalting tajribasiga ega, menejmentda sifatni ta’minlashga tizimli yondashuv sifatida inson resurslarini rivojlantirishni takomillashtirish bo‘yicha xalqaro loyihalarni ishlab chiqish, mahalliy ta’lim tashkilotlarining barqaror rivojlantirishi uchun ta’lim tizimlarida o‘qituvchilar va xodimlarning malakasi standartlarini belgilash bo‘yicha yetakchi ekspert.',
 
 	'shuhratxoja-amanov-1' => 'Shuhratxo‘ja',

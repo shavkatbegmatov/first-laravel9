@@ -12,17 +12,17 @@ return [
 	'khudaynazar-kurbanov-work-2' => 'Mahorat & Management',
 	'khudaynazar-kurbanov-more' => 'Researcher (in the field of vocational education). Specialist with international experience in the fields of NQF, ISCED (UNESCO), Quality Assurance in Education. Content developer. Project manager. Co-founder of “Management & Management” organization. Has 18+ years of consulting experience in international and national projects.',
 
-	'feruza-rashidova-1' => 'Feruza',
+	'feruza-rashidova-1' => 'Dr. Feruza',
 	'feruza-rashidova-2' => 'Rashidova',
 	'feruza-rashidova-work-1' => 'QA Expert in Education system',
-	'feruza-rashidova-work-2' => 'PhD in Pedagogy',
+	'feruza-rashidova-work-2' => 'Doctor of science in Pedagogy',
 	'feruza-rashidova-more' => 'Doctor of Science in Pedagogy. An expert on the quality of education system for more than 20 years. Expert and trainer in ensuring the quality of educational programs and systems for more than 10 years. Content developer. Project manager. Leading expert of “Management & Management” organization as with the rich experience in consulting, developing the international projects on enhancement of HRD as systematic approach on Quality Assurance establishment in management, establishing the standards of qualifications of the teachers and personnel in education systems for sustainable development of local educational providers.',
 
 	'shuhratxoja-amanov-1' => 'Shuhratxo‘ja',
 	'shuhratxoja-amanov-2' => 'Amanov',
 	'shuhratxoja-amanov-work-1' => 'Skills & Employment expert',
 	'shuhratxoja-amanov-work-2' => 'Education',
-	'shuhratxoja-amanov-more' => 'Holds an MBA degree in . 20+ years working experience for the International Organizations in the areas of Business Development, Education, Skills and Human Capital Development. Several years\' experience in management of and consultancy to donor and international lending agency funded projects in Armenia, Georgia, Kazakhstan, Tajikistan, Turkmenistan and Uzbekistan.',
+	'shuhratxoja-amanov-more' => 'Holds MBA degree in Financial Management. 20+ years working experience for the International Organizations in the areas of Business Development, Education, Skills and Human Capital Development. Several years\' experience in management of and consultancy to donor and international lending agency funded projects in Armenia, Georgia, Kazakhstan, Tajikistan, Turkmenistan and Uzbekistan.',
 
 	'farhod-furkatov-1' => 'Farhod',
 	'farhod-furkatov-2' => 'Furkatov',
