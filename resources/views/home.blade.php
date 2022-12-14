@@ -170,7 +170,7 @@
 
             <div class="col-lg-12 col-md-12 col-12">
                 <div class="news-thumb mb-4">
-                    <a href="/news-02-12-2022-t-01">
+                    <a href="/news-02-12-2022-t01">
                         <img src="assets/images/news/news-02-12-2022.jpg"
                             class="img-fluid news-image" alt="">
                     </a>
@@ -179,7 +179,7 @@
                         <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
                         <strong style="background-color: aliceblue;">{{ __('news.date-02-12-2022') }}</strong>
                         <h5 class="news-title mt-2">
-                            <a href="/news/news-02-12-2022-t-01" class="news-title-link">{{ __('news.news-02-12-2022-t01-header') }}</a>
+                            <a href="/news/news-02-12-2022-t01" class="news-title-link">{{ __('news.news-02-12-2022-t01-header') }}</a>
                         </h5>
                     </div>
                 </div>
