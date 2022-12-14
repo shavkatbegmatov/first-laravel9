@@ -670,7 +670,7 @@ strong {
 
 #BookingModal .modal-body {
   padding: 38px 32px;
-  padding-right: 35%;
+  /* padding-right: 35%; */
 }
 
 #BookingModal .modal-footer {
