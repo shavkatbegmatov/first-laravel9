@@ -83,6 +83,12 @@ return [
 	'meeting' => 'Meeting',
 	'02-09-2021' => '02 September 2021',
 	'uztea-invites-zoom' => 'UzTEA invites you to a scheduled meeting: Zoom.',
+
+	'date-02-12-2022' => 'December 2, 2022',
+	'news-02-12-2022-text-01' => 'Vocational education as a basis for continuous development of human capital',	
+
 	'our-partners' => 'Our Partners',
+
+
 
 ];

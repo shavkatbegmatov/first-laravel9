@@ -319,6 +319,10 @@ strong {
   background-image: url('../assets/images/header/rod-long-I79Pgmhmy5M-unsplash.jpg');
 }
 
+.site-news-2022-12-02-t01-header {
+  background-image: url('../../assets/images/header/header-news-2022-12-02-t01.jpg');
+}
+
 .overlay {
   background: linear-gradient(to top, var(--dark-color), transparent 100%);
   position: absolute;

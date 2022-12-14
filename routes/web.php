@@ -64,4 +64,10 @@ Route::get('/contacts', function () {
     return view('contacts');
 });
 
+Route::get('/news-02-12-2022-t01', function () {
+    return view('news/news-02-12-2022-t01');
+});
+
+
+
 require __DIR__ . '/auth.php';
