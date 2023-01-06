@@ -64,8 +64,12 @@ Route::get('/contacts', function () {
     return view('contacts');
 });
 
-Route::get('/news-02-12-2022-t01', function () {
-    return view('news/news-02-12-2022-t01');
+Route::get('/news-2022-12-02-t01', function () {
+    return view('news/news-2022-12-02-t01');
+});
+
+Route::get('/news-2022-12-28-t01', function () {
+    return view('news/news-2022-12-28-t01');
 });
 
 

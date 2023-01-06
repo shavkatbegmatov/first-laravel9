@@ -323,6 +323,11 @@ strong {
   background-image: url('../../assets/images/header/header-news-2022-12-02-t01.jpg');
 }
 
+.site-news-2022-12-28-t01-header {
+  background-image: url('../../assets/images/header/header-news-2022-12-28-t01.jpg');
+  background-position-y: top;
+}
+
 .overlay {
   background: linear-gradient(to top, var(--dark-color), transparent 100%);
   position: absolute;

@@ -59,7 +59,7 @@ return [
 	'previous' => 'Oldingi',
 	'next' => 'Keyingisi',
 	'home-we-strive' => 'Biz inson kapitalini rivojlantirishga intilamiz',
-	'home-the-name-mahorat' => '"Mahorat" nomi "usta" degan ma\'noni anglatadi. Tashkilotning asosiy maqsadi ilmiy tadqiqotlarga asoslangan holda inson resurslarini rivojlantirish bo\'yicha xalqaro magistr-ekspertlarni tayyorlash. Biz inson resurslarini rivojlantirish sohasidagi innovasiyalar va konstruktiv muloqotga qaratilgan o\'zgarishlarni qo\'llab-quvvatlaymiz.',
+	'home-the-name-mahorat' => '«Mahorat & Management»  nodavlat ta’lim tashkiloti davlat va nodavlat ta’lim muassasalari bilan faol hamkorlik qiladi,uzoq va qisqa muddatli ta’lim loyihalarini amalga oshiradi. Uning tarkibiga butun mamlakat bo‘ylab 20 dan ortiq ekspertlar, shuningdek, 2-3 xalqaro ekspertlar kiradi, ya’ni u butun mamlakat bo‘ylab faoliyat yuritish imkoniyatiga ega.',
 	'our-projects' => 'LOYIHALARIMIZ',
 	'projects' => 'Loyihalar',
 	// 'home-carousel-hero-etf' => 'ETF ‘Torino Process’ project',

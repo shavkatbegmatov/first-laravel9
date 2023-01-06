@@ -16,11 +16,11 @@
 
 			<div class="col-lg-10 col-12 mx-auto">
 				{{-- <h1 class="text-white my-font">{{ __('news.news') }}</h1>
-				<strong style="background-color: aliceblue;">{{ __('news.date-02-12-2022') }}</strong>
-				<strong class="text-white my-font">{{ __('news.news-02-12-2022-t01-header') }}</strong> --}}
+				<strong style="background-color: aliceblue;">{{ __('news.date-2022-12-02') }}</strong>
+				<strong class="text-white my-font">{{ __('news.news-2022-12-02-t01-header') }}</strong> --}}
 				<span class="category-tag bg-danger">{{ __('messages.news') }}</span>
-				<strong style="background-color: aliceblue;padding: 12px;">{{ __('news.date-02-12-2022') }}</strong>
-				<h5 class="text-white my-font">{{ __('news.news-02-12-2022-t01-header') }}</h5>
+				<strong style="background-color: aliceblue;padding: 12px;">{{ __('news.date-2022-12-02') }}</strong>
+				<h5 class="text-white my-font">{{ __('news.news-2022-12-02-t01-header') }}</h5>
 			</div>
 
 		</div>
@@ -35,13 +35,13 @@
 	<div class="container">
 		<div class="row my-header-row">
 			<div class="col">
-				<h2 class="text-center my-header">{{ __('news.news-02-12-2022-t01-header') }}</h2>
+				<h2 class="text-center my-header">{{ __('news.news-2022-12-02-t01-header') }}</h2>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
-				<p class="my-p">{{ __('news.news-02-12-2022-t01-body') }}</p>
+				<p class="my-p">{{ __('news.news-2022-12-02-t01-body') }}</p>
 			</div>
 		</div>
 	</div>

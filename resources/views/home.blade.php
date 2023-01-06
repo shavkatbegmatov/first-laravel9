@@ -87,7 +87,7 @@
         </div>
 </section>
 
-<section class="news section-padding">
+<section class="projects section-padding">
     <div class="container">
         <h2 class="text-center mb-lg-5 mb-4 my-font my-header">{{ __('messages.our-projects') }}</h2>
         <div class="row">
@@ -168,22 +168,57 @@
 
             <h2 class="text-center mb-lg-5 mb-4 my-header">{{ __('messages.news-and-events') }}</h2>
 
-            <div class="col-lg-12 col-md-12 col-12">
+            <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
-                    <a href="/news-02-12-2022-t01">
-                        <img src="assets/images/news/news-02-12-2022.jpg"
+                    <a href="/news-2022-12-28-t01">
+                        <img src="assets/images/news/news-2022-12-28.jpg"
                             class="img-fluid news-image" alt="">
                     </a>
 
                     <div class="news-text-info news-text-info-large">
                         <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
-                        <strong style="background-color: aliceblue;">{{ __('news.date-02-12-2022') }}</strong>
+                        <strong style="background-color: aliceblue;">{{ __('news.date-2022-12-28') }}</strong>
                         <h5 class="news-title mt-2">
-                            <a href="/news/news-02-12-2022-t01" class="news-title-link">{{ __('news.news-02-12-2022-t01-header') }}</a>
+                            <a href="/news/news-2022-12-28-t01" class="news-title-link">{{ __('news.news-2022-12-28-t01-header') }}</a>
                         </h5>
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-6 col-md-12 col-12">
+                <div class="news-thumb mb-4">
+                    <a href="/news-27-11-2022-t01">
+                        <img src="assets/images/news/news-27-11-2022.jpg"
+                            class="img-fluid news-image" alt="">
+                    </a>
+
+                    <div class="news-text-info news-text-info-large">
+                        <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
+                        <strong style="background-color: aliceblue;">{{ __('news.date-27-11-2022') }}</strong>
+                        <h5 class="news-title mt-2">
+                            <a href="/news/news-27-11-2022-t01" class="news-title-link">{{ __('news.news-27-11-2022-t01-header') }}</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-12">
+                <div class="news-thumb mb-4">
+                    <a href="/news-2022-12-02-t01">
+                        <img src="assets/images/news/news-2022-12-02.jpg"
+                            class="img-fluid news-image" alt="">
+                    </a>
+
+                    <div class="news-text-info news-text-info-large">
+                        <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
+                        <strong style="background-color: aliceblue;">{{ __('news.date-2022-12-02') }}</strong>
+                        <h5 class="news-title mt-2">
+                            <a href="/news/news-2022-12-02-t01" class="news-title-link">{{ __('news.news-2022-12-02-t01-header') }}</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
 
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="news-thumb mb-4">

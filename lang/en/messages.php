@@ -59,7 +59,7 @@ return [
 	'previous' => 'Previous',
 	'next' => 'Next',
 	'home-we-strive' => 'We strive to advance human capital',
-	'home-the-name-mahorat' => 'The name ‘Mahorat’ means Master. The organization\'s building the international Masters - Experts in reaching the organization’s aim HRD-Human Resource Development by research-based evidence. We embrace the changes toward innovations and constructive dialogue in HRD.',
+	'home-the-name-mahorat' => 'Non-governmental educational organization “Mahorat & Management” actively cooperates with state and non-state educational institutions and implements short and long term joint educational projects. It joins more than 20 experts nationwide, also 2-3 international experts which means it has capacity to act nationwide.',
 	'our-projects' => 'Our Projects',
 	'projects' => 'Projects',
 	// 'home-carousel-hero-etf' => 'ETF ‘Torino Process’ project',
