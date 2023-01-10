@@ -72,6 +72,8 @@ Route::get('/news-2022-12-28-t01', function () {
     return view('news/news-2022-12-28-t01');
 });
 
-
+Route::get('/news-2022-11-27-t01', function () {
+    return view('news/news-2022-11-27-t01');
+});
 
 require __DIR__ . '/auth.php';

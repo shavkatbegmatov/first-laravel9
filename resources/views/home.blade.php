@@ -187,16 +187,16 @@
 
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="news-thumb mb-4">
-                    <a href="/news-27-11-2022-t01">
-                        <img src="assets/images/news/news-27-11-2022.jpg"
+                    <a href="/news-2022-11-27-t01">
+                        <img src="assets/images/news/news-2022-11-27.jpg"
                             class="img-fluid news-image" alt="">
                     </a>
 
                     <div class="news-text-info news-text-info-large">
                         <span class="category-tag bg-danger">{{ __('messages.news') }}</span>
-                        <strong style="background-color: aliceblue;">{{ __('news.date-27-11-2022') }}</strong>
+                        <strong style="background-color: aliceblue;">{{ __('news.date-2022-11-27') }}</strong>
                         <h5 class="news-title mt-2">
-                            <a href="/news/news-27-11-2022-t01" class="news-title-link">{{ __('news.news-27-11-2022-t01-header') }}</a>
+                            <a href="/news/news-2022-11-27-t01" class="news-title-link">{{ __('news.news-2022-11-27-t01-header') }}</a>
                         </h5>
                     </div>
                 </div>
@@ -218,7 +218,6 @@
                     </div>
                 </div>
             </div>
-
 
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="news-thumb mb-4">
@@ -321,6 +320,11 @@
         <h2 class="text-center mb-lg-5 mb-4 my-header">{{ __('messages.our-partners') }}</h2>
         <strong>
             <div class="row">
+                <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="square-holder">
+                        <img alt="" src="assets/images/partners/partner-friedrich-ebert-stiftung.png" />
+                    </div>
+                </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
                         <img alt="" src="assets/images/partners/partner-m-tech.jpg" />

@@ -149,6 +149,11 @@
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="square-holder">
+                        <img alt="" src="assets/images/partners/partner-friedrich-ebert-stiftung.png" />
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="square-holder">
                         <img alt="" src="assets/images/partners/partner-m-tech.jpg" />
                     </div>
                 </div>

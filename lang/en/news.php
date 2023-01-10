@@ -19,4 +19,12 @@ During the written exam and interview, the candidates (students) were assessed b
 Out of 989 candidates (students) who applied to participate in the competition, candidates were selected for inclusion in the “Golden groups” based on their scores within the quota established by the University.
 The competition was conducted on the principles of trust, transparency, and objectivity.
 The selection results were announced on the website of the university www.tdpu.uz.',
+
+	'date-2022-11-27' => 'November 27, 2022',
+	'news-2022-11-27-t01-header' => 'Final module of the youth program “Young Leaders Development Program” was held',
+	'news-2022-11-27-t01-body' => 'On November 26 and 27, 2022, the fifth and final module of the youth program “Young Leaders Development Program” was held, organized by the Association of English Language Teachers “UzTEA” in partnership with the Representative Office of the Friedrich Ebert Foundation in Uzbekistan and "Mahorat & Management".
+The project was attended by 20 ambitious youth representatives of Uzbekistan, studying in various educational institutions of the country in different directions and wishing to increase their potential in different spheres of life.
+The agenda of the extreme module of the youth program was "Gender equality", which discussed topics such as gender equality in the region, examples from the life of society, social projects in this sphere. Also, during the interactive sessions, participants had the opportunity to get information about social projects and programs in this area, how they can contribute to the development of gender equality, as well as opportunities to promote social projects in the Republic.
+During the program, participants had the opportunity to acquire new knowledge, interests and acquaintances. Friedrich Ebert Foundation in Uzbekistan expresses its gratitude to the partners and all participants of the program for an unforgettable 3 months!',
+
 ];

@@ -21,4 +21,11 @@ Tanlov jarayonini Mahorat&Menejment ekspertlari ishonchlilik, shaffoflik va ob�
 Saralash natijalari universitetning www.tdpu.uz   caytida e’lon qilib borildi.
 ',
 
+	'date-2022-11-27' => '2022 yil 27 noyabr',
+	'news-2022-11-27-t01-header' => '"Young Leaders Development Program" yoshlar dasturining beshinchi va yakunlovchi moduli bo‘lib o‘tdi',
+	'news-2022-11-27-t01-body' => '2022 yil 26 va 27 noyabr kunlari "UzTEA" ingliz Tili o‘qituvchilari uyushmasi tomonidan Fridrix Ebert Jamg‘armasining O‘zbekistondagi vakolatxonasi va "Mahorat & Management" bilan hamkorlikda tashkil etilgan "Young Leaders Development Program" yoshlar dasturining beshinchi va yakunlovchi moduli bo‘lib o‘tdi.
+Loyihada mamlakatning turli ta’lim muassasalarida turli yo‘nalishlarda tahsil olayotgan va hayotning turli sohalarida o‘z salohiyatini oshirishga tayyor bo‘lgan 20 nafar O‘zbekiston yoshlarining shuhratparast vakillari ishtirok etdi.
+Yoshlar dasturining so‘nggi modulining kun tartibi "Gender tengligi" bo‘lib, unda mintaqadagi gender tengligi, jamiyat hayotidagi misollar, ushbu yo‘nalishdagi ijtimoiy loyihalar kabi mavzular muhokama qilindi. Shuningdek, interaktiv sessiyalarda ishtirokchilar ushbu sohadagi ijtimoiy loyihalar va dasturlar, gender tengligini rivojlantirishga qanday hissa qo‘shishi, shuningdek, respublikada ijtimoiy loyihalarni ilgari surish imkoniyatlari haqida ma’lumot olish imkoniyatiga ega bo’ldilar.
+Dastur davomida ishtirokchilar yangi bilimlar, qiziqishlar va tanishlar orttirish imkoniyatiga ega bo‘ldilar. Fridrix Ebert jamg‘armasining O‘zbekistondagi vakolatxonasi hamkorlarga va dasturning barcha ishtirokchilariga unutilmas 3 oy uchun minnatdorchilik bildiradi!',
+
 ];
